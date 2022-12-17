@@ -5,6 +5,8 @@
 ## Description
 The purpose of this repository is to build a text editor that runs in the browser (add offline) that meets the PWA criteria and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
 
+[View Application in Heroku](https://text-editor110.herokuapp.com/)
+
 ## Table of Contents 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
@@ -58,7 +60,7 @@ THEN I should have proper build scripts for a webpack application
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Final Application
-[View Application in Heroku]()
+[View Application in Heroku](https://text-editor110.herokuapp.com/)
 ![Screenshot of App](./client/dist/assets/screenshot.png)
 
 ## Installation 
