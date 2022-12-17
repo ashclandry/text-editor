@@ -58,10 +58,13 @@ THEN I should have proper build scripts for a webpack application
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Final Application
+[View Application in Heroku]()
+![Screenshot of App](./client/dist/assets/screenshot.png)
 
 ## Installation 
-
-## Usage
+Install all dependencies `npm install`
+Start app `npm start` 
+View app in http://localhost:3000/ browser
 
 ## Credits
 * [NPM Documentation](https://www.npmjs.com/)
